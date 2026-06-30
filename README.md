@@ -4,7 +4,7 @@ A collection of writeups for rooms completed on TryHackMe as part of my cybersec
 
 Each writeup covers the methodology, tools, and reasoning behind the work — flags are not included, in compliance with TryHackMe's policy.
 
-🔗 TryHackMe Profile: [link]
+🔗 TryHackMe Profile: https://tryhackme.com/p/andrey25g
 🔗 LinkedIn: [link]
 
 ## Certifications
